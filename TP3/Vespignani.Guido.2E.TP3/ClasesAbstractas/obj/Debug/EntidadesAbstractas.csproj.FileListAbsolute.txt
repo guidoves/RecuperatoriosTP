@@ -1,0 +1,7 @@
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\bin\Debug\Exepciones.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\bin\Debug\Exepciones.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

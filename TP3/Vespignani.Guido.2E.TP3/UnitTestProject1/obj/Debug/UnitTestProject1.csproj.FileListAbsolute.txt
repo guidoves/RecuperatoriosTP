@@ -1,0 +1,13 @@
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\ClasesAbstractas.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Exepciones.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\ClasesAbstractas.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\bin\Debug\Exepciones.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

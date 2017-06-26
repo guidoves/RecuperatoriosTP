@@ -1,0 +1,11 @@
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Exepciones.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Exepciones.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Clases Instanciables\bin\Debug\Archivos.pdb

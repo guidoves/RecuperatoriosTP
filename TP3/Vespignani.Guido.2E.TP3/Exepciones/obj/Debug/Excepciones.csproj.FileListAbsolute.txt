@@ -1,0 +1,5 @@
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Exepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\guido\Documents\Visual Studio 2012\Projects\Vespignani.Guido.2E.TP3\Exepciones\obj\Debug\Exepciones.pdb
